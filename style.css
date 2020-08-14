@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.container-fluid, .container, .row {
+.container-fluid, .container, .row, .masthead {
     padding-right:0;
     padding-left:0;
     margin-right:auto;
