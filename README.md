@@ -1,2 +1,2 @@
 # sniptamallick.github.io
-Personal Website
+Personal Website created using Visual Studio and Tailwind CSS :)
